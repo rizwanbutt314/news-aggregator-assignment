@@ -1,0 +1,10 @@
+# News API Settings
+NA_API_KEY = '87cd8119c702469ca235c55dcbd00c54'
+NA_API_LANGUAGE = 'en'
+
+# Reddit API Settings
+RA_API_CLIENT_ID = 'U5KFRi7NRFF2Kw'
+RA_API_CLIENT_SECRET = 'HX8nMTnnBADftmPmDZN4u_LxX6E'
+RA_API_USERNAME = 'Kenneth_Holland'
+RA_API_PASSWORD = '#kupoyj29#'
+RA_API_USER_AGENT = 'Reddit bot by {}'.format(RA_API_USERNAME)
