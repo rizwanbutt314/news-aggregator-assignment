@@ -17,6 +17,11 @@ This API contains following endpoints for serving data:
 * **/n/news** (return list of newsapi related data)
 * **/news**   (return list of newsapi+redditapi related data)
 
+All above endpoints support query search feature just as follow:
+* `/news?query=abc`
+* `/r/news?query=abc`
+* `/n/news?query=abc`
+
 This API also has an swagger based ui where you can execute 
 the apis directly.This ui will be accessible on following url:
 * `http(s)://ip:port/api-doc`
