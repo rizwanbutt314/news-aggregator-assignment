@@ -1,3 +1,5 @@
+**Framework**: FastAPI
+
 **Pre-requisites:**
 * Python 3.6+
 * Update settings for NewsAPI and RedditAPI in config.py file.
@@ -22,6 +24,5 @@ All above endpoints support query search feature just as follow:
 * `/r/news?query=abc`
 * `/n/news?query=abc`
 
-This API also has an swagger based ui where you can execute 
-the apis directly.This ui will be accessible on following url:
+This API also has a swagger based UI where you can execute the APIs directly. This UI will be accessible on following URL:
 * `http(s)://ip:port/api-doc`
